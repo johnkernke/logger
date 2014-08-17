@@ -1,0 +1,11 @@
+{
+    "name": "logger",
+    "private": true,
+    "description": "Logger",
+    "version": "0.0.1",
+    "author": {
+        "name": "John Kernke",
+        "email": "john.kernke@gmail.com"
+    },
+    "main": "./lib/logger/index.js"
+}
